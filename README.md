@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
- osTicket Pre-requisites & Installation
 </p>
 
+<h1>osTicket - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Technologies and Environments Used<a><h2/>
 
@@ -12,7 +13,7 @@
 - osTicket (Help Desk Ticketing System)
 
 
-<h2>In this tutorial I will install osTicket on an Azure VM (Virtual Machine). This tutorial assumes you have already created a VM and are logged in to it. The install files for osTicket can be found <a href= https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 /> here <a><h2/>
+<h2> This tutorial assumes you have already created a VM and are logged in to it. The install files for osTicket can be found <a href= https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 /> here <a><h2/>
 
 <p align="center">
 <img src="https://imgur.com/5JmaKwD.png alt="Traffic Examination"/>
